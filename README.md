@@ -1,4 +1,5 @@
 # FilmBuzz
- Spletna aplikacija za ocenjevanje filmov.
- profesor, Test1234
- admin, Admin123
+ Spletna aplikacija za ocenjevanje filmov. 
+ Uporabniki:
+ - profesor, Test1234
+ - admin, Admin123
